@@ -16,7 +16,7 @@ const Newsletter = () => {
           <Leaf className="w-16 h-16 text-green-600" />
         </div>
         <h1 className="text-5xl font-bold text-green-900 mb-4 font-mono">
-          Newsletter
+          News
         </h1>
       </header>
 

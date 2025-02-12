@@ -53,7 +53,7 @@ const Home = () => {
           <Link to="/newsletter">
             <NavigationBlock
               icon={BookOpen}
-              title="Newsletter"
+              title="News"
               description="Explore and contribute to our projects"
               className="bg-green-500 hover:bg-green-600 text-green-900 h-72 w-72"
             />
