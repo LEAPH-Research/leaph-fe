@@ -1,0 +1,54 @@
+{
+    "publications":[
+        {
+            "title":"The Intersection of Immigrant and Environmental Health: A Scoping Review of Observational Population Exposure and Epidemiologic Studies",
+            "description":"We reviewed the role of environmental exposures in immigrant health disparities.",
+            "authors":"Fong KC, Heo S, Lim CC, Kim H, Chan AY, Lee W, Stewart R, Choi HM, Son JY, Bell ML",
+            "citation":"Environmental Health Perspectives 2022, 130(9), 096001",
+            "link":"https://ehp.niehs.nih.gov/doi/10.1289/EHP9855"
+        },
+        {
+            "title":"Do Fine Particulate Air Pollution (PM2.5) Exposure and its Attributable Premature Mortality Differ for Immigrants Compared to those Born in the United States?",
+            "description":"We quantified PM2.5 exposure disparities among immigrants and between immigrants and non-immigrants.",
+            "authors":"Fong KC, Bell ML",
+            "citation":"Environmental Research 2021, 196, 110387",
+            "link":"https://pubmed.ncbi.nlm.nih.gov/33129853/"
+        },
+
+        {
+            "title":"Disparities in exposure to surrounding greenness related to proportion of the population that were immigrants to the United States",
+            "description":"Do areas with more immigrants in the United States have lower or higher greenness?",
+            "authors":"Fong KC, Mehta NK, Bell ML",
+            "citation":"International Journal of Hygiene and Environmental Health 2020, 224, 113434",
+            "link":"https://www.ncbi.nlm.nih.gov/pubmed/31978731"
+        },
+        {
+            "title":"Fine Particulate Air Pollution and Birthweight: Differences in Associations along the Birthweight Distribution",
+            "description":"Does PM2.5 affect fetal growth some more than others?",
+            "authors":"Fong KC, Kosheleva A, Kloog I, Coull BA, Koutrakis P, Laden F, Schwartz JD",
+            "citation":"Epidemiology 2019, 30(5), 617-623",
+            "link":"https://www.ncbi.nlm.nih.gov/pubmed/31386643"
+        },
+        {
+            "title":"Relative Toxicities of Major Particulate Matter Constituents on Birthweight in Massachusetts",
+            "description":"Do some PM2.5 components affect fetal growth more than others?",
+            "authors":"Fong KC, Di Q, Kosheleva A, Coull BA, Koutrakis P, Laden F, Schwartz JD",
+            "citation":"Environmental Epidemiology 2019, 3(3), e047",
+            "link":"https://www.ncbi.nlm.nih.gov/pubmed/31342007"
+        },
+        {
+            "title":"Residential Greenness and Birthweight in the State of Massachusetts, USA",
+            "description":"Does maternal residential greenness affect fetal growth?",
+            "authors":"Fong KC, Kloog I, Coull BA, Koutrakis P, Laden F, Schwartz JD, James P",
+            "citation":"Int. J. Environ. Res. Public Health, 2018, 15(6), 12481",
+            "link":"https://www.ncbi.nlm.nih.gov/pubmed/29895795"
+        },
+        {
+            "title":"A Review of Epidemiologic Studies on Greenness and Health: Updated Literature Through 2017",
+            "description":"How does greenness affect population health?",
+            "authors":"Fong KC, Hart JE, James P",
+            "citation":"Curr Environ Health Rep, 2018, 5(1), 77-87",
+            "link":"https://www.ncbi.nlm.nih.gov/pubmed/29392643"
+        }
+    ]
+}
