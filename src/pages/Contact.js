@@ -50,7 +50,7 @@ const Contact = () => {
               <label className="block text-gray-700 font-medium mb-2">Your Name</label>
               <input
                 type="text"
-                name="user_name"
+                name="name"
                 placeholder="Enter your name"
                 className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400"
               />
@@ -59,7 +59,7 @@ const Contact = () => {
               <label className="block text-gray-700 font-medium mb-2">Email</label>
               <input
                 type="email"
-                name="user_email"
+                name="email"
                 placeholder="Enter your email"
                 className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400"
               />
