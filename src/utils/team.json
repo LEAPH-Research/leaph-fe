@@ -102,6 +102,17 @@
                     "PhD, Forestry, University of British Columbia, with Susan Day and Cecil Konijnendijk",
                     "MES, BA, University of Pennsylvania"
                 ]
+            },
+            {
+                "name": "Greta Martin",
+                "role": "Postdoctoral Associate",
+                "img": "corey.jpg",
+                "linkedin": "https://www.linkedin.com/in/greta-m-9775a058/",
+                "website": "",
+                "description": [
+                    "PhD, Environmental Health, George Washington Milken Institute of Public Health",
+                    "MSc, Global Health and Population, Harvard T.H. Chan School of Public Health"
+                ]
             }
         ],
         "alumni": [

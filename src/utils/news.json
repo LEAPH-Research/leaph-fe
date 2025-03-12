@@ -2,7 +2,8 @@
     "news":[
         {
             "date": "30 Sept 2024",
-            "description": "Welcoming research assistants Ana, Ellie, Katy, and Vaibhav!"
+            "description": "Welcoming research assistants Ana, Ellie, Katy, and Vaibhav!",
+            "image":"team.jpg"
         },
         {
             "date": "7 Sept 2024",
@@ -10,7 +11,8 @@
         },
         {
             "date": "31 August 2024",
-            "description": "Team members presented our recent research at ISEE2024"
+            "description": "Team members presented our recent research at ISEE2024",
+            "image":"team.jpg"
         },
         {
             "date": "19 August 2024",
