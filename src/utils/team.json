@@ -59,18 +59,6 @@
                 ]
             },
             {
-                "name": "Katy Kane",
-                "role": "Research Assistant",
-                "img": "katy.jpg",
-                "linkedin": "",
-                "website": "",
-                "description": [
-                    "Climate Change, Environmental Toxicology, and how they relate to health disparities",
-                    "MPH Student, George Washington University",
-                    "BSc, George Washington University"
-                ]
-            },
-            {
                 "name": "Vaibhav Vemula",
                 "role": "Research Assistant",
                 "img": "vaibhav.jpg",
@@ -93,20 +81,9 @@
                 ]
             },
             {
-                "name": "Corey Bassett",
-                "role": "Postdoctoral Associate",
-                "img": "corey.jpg",
-                "linkedin": "",
-                "website": "https://coreybassett.com",
-                "description": [
-                    "PhD, Forestry, University of British Columbia, with Susan Day and Cecil Konijnendijk",
-                    "MES, BA, University of Pennsylvania"
-                ]
-            },
-            {
                 "name": "Greta Martin",
                 "role": "Postdoctoral Associate",
-                "img": "corey.jpg",
+                "img": "greta.jpeg",
                 "linkedin": "https://www.linkedin.com/in/greta-m-9775a058/",
                 "website": "",
                 "description": [
@@ -116,6 +93,22 @@
             }
         ],
         "alumni": [
+            {
+                "name": "Corey Bassett",
+                "img": "corey.png",
+                "role": "Research Scientist at USFS",
+                "description": [
+                    "Postdoctoral Associate 2024-2025"
+                ]
+            },
+            {
+                "name": "Katy Kane",
+                "img": "katy.jpg",
+                "role": "MPH student at George Washington University",
+                "description": [
+                    "Research Assistant 2024-2025"
+                ]
+            },
             {
                 "name": "Aline Maybank",
                 "img": "aline.png",
