@@ -7,7 +7,7 @@
         {
             "date": "30 Sept 2024",
             "description": "Welcoming research assistants Ana, Ellie, Katy, and Vaibhav!",
-            "image":"team.jpg"
+            "image":"newsRA.png"
         },
         {
             "date": "7 Sept 2024",
@@ -16,7 +16,7 @@
         {
             "date": "31 August 2024",
             "description": "Team members presented our recent research at ISEE2024",
-            "image":"team.jpg"
+            "image":"isee2024.png"
         },
         {
             "date": "19 August 2024",
@@ -64,7 +64,8 @@
         },
         {
             "date": "22 June 2023",
-            "description": "We attended and presented at the inaugural ISEE-NAC Conference!"
+            "description": "We attended and presented at the inaugural ISEE-NAC Conference!",
+            "image":"iseenac2023.png"
         },
         {
             "date": "11 April 2023",
