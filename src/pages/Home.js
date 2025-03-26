@@ -12,8 +12,8 @@ const NavigationBlock = ({
     className={`p-8 rounded-lg transition-all duration-300 hover:scale-105 ${className}`}
   >
     <Icon className="w-20 h-20 mb-4" />
-    <h3 className="text-3xl font-bold mb-2 font-mono">{title}</h3>
-    <p className="text-lg opacity-90 font-mono">{description}</p>
+    <h3 className="text-3xl mb-2 font-josefin font-extrabold">{title}</h3>
+    <p className="text-lg opacity-90 font-comfortaa font-bold">{description}</p>
   </div>
 );
 
@@ -24,8 +24,8 @@ const Home = () => {
         <div className="flex items-center justify-center mb-6">
           <Leaf className="w-16 h-16 text-green-600" />
         </div>
-        <h1 className="text-5xl font-bold text-green-900 mb-4 font-mono">LEAPH</h1>
-        <p className="text-xl text-green-700 max-w-2xl mx-auto font-mono font-bold">
+        <h1 className="text-5xl text-green-900 mb-4 font-josefin font-extrabold">LEAPH</h1>
+        <p className="text-xl text-green-700 max-w-2xl mx-auto font-comfortaa font-bold">
           We are the Laboratory for Environmental Assessment and Population
           Health
         </p>

@@ -38,79 +38,85 @@ const Contact = () => {
         <div className="flex items-center justify-center mb-6">
           <Leaf className="w-16 h-16 text-green-600" />
         </div>
-        <h1 className="text-5xl font-bold text-green-900 mb-4 font-mono">
+        <h1 className="text-5xl font-bold text-green-900 mb-4 font-josefin">
           Contact Us
         </h1>
       </header>
       <main className="flex items-center justify-center w-full px-4 pb-12">
         <div className="w-full max-w-lg bg-white shadow-lg rounded-2xl p-6 flex flex-col justify-center">
-          <h2 className="text-2xl font-bold text-green-700 text-center mb-4">Send your Query</h2>
+          <h2 className="text-3xl font-bold text-green-700 text-center mb-4 font-josefin">Send your Query</h2>
           <form ref={form} onSubmit={sendEmail} className="flex flex-col space-y-4">
             <div>
-              <label className="block text-gray-700 font-medium mb-2">Your Name</label>
+              <label className="block text-gray-700 text-xl font-semibold mb-2 font-josefin">Your Name</label>
               <input
+              required
                 type="text"
                 name="name"
                 placeholder="Enter your name"
-                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400"
+                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400 font-comfortaa font-bold"
               />
             </div>
             <div>
-              <label className="block text-gray-700 font-medium mb-2">Email</label>
+              <label className="block text-gray-700 text-xl font-semibold font-josefin mb-2">Email</label>
               <input
+              required
                 type="email"
                 name="email"
                 placeholder="Enter your email"
-                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400"
+                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400 font-comfortaa font-bold"
               />
             </div>
             <div>
-              <label className="block text-gray-700 font-medium mb-2">Subject</label>
+              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">Subject</label>
               <div className="flex gap-4">
-                <label className="flex items-center space-x-2">
+                <label className="flex items-center space-x-2 cursor-pointer">
                   <input
                     type="radio"
                     name="subject"
                     value="research"
+                    className="scale-125"
                     checked={subject === "research"}
                     onChange={() => setSubject("research")}
                   />
-                  <span>Research</span>
+                  <span className="font-comfortaa font-bold">Research</span>
                 </label>
-                <label className="flex items-center space-x-2">
-                  <input
-                    type="radio"
-                    name="subject"
-                    value="support"
-                    checked={subject === "support"}
-                    onChange={() => setSubject("support")}
-                  />
-                  <span>Support</span>
-                </label>
-                <label className="flex items-center space-x-2">
+                <label className="flex items-center space-x-2 cursor-pointer">
                   <input
                     type="radio"
                     name="subject"
                     value="team"
+                    className="scale-125"
                     checked={subject === "team"}
                     onChange={() => setSubject("team")}
                   />
-                  <span>Join our team</span>
+                  <span className="font-comfortaa font-bold">Join our team</span>
+                </label>
+                <label className="flex items-center space-x-2 cursor-pointer">
+                  <input
+                    type="radio"
+                    name="other"
+                    value="other"
+                    className="scale-125"
+                    checked={subject === "other"}
+                    onChange={() => setSubject("other")}
+                  />
+                  <span className="font-comfortaa font-bold">Other</span>
                 </label>
               </div>
             </div>
             <div>
-              <label className="block text-gray-700 font-medium mb-2">Message</label>
+              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">Message</label>
               <textarea
+              required
                 name="message"
                 placeholder="Enter your message"
-                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400"
+                className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400 font-comfortaa font-bold"
                 rows="4"
               ></textarea>
             </div>
             <button
               type="submit"
-              className="w-full bg-green-600 text-white py-2 rounded-lg hover:bg-green-700 transition"
+              className="w-full bg-green-600 text-white py-2 rounded-lg hover:bg-green-700 transition font-josefin font-bold text-xl"
             >
               Submit
             </button>
