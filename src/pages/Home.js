@@ -27,7 +27,7 @@ const Home = () => {
         <h1 className="text-5xl text-green-900 mb-4 font-josefin font-extrabold">LEAPH</h1>
         <p className="text-xl text-green-700 max-w-2xl mx-auto font-comfortaa font-bold">
           We are the Laboratory for Environmental Assessment and Population
-          Health
+          Health at the George Washington University
         </p>
       </header>
 
@@ -37,7 +37,7 @@ const Home = () => {
             <NavigationBlock
               icon={Leaf}
               title="About Us"
-              description="Comprehensive guides and API documentation"
+              description="Learn about our team"
               className="bg-green-300 hover:bg-green-400 text-green-900 h-72 w-72"
             />
           </Link>
@@ -45,7 +45,7 @@ const Home = () => {
             <NavigationBlock
               icon={GraduationCap}
               title="Research"
-              description="Comprehensive guides and API documentatio"
+              description="Read about our research"
               className="bg-green-400 hover:bg-green-500 text-green-900 h-72 w-72"
             />
           </Link>
@@ -54,7 +54,7 @@ const Home = () => {
             <NavigationBlock
               icon={BookOpen}
               title="News"
-              description="Explore and contribute to our projects"
+              description="Updates from our research team"
               className="bg-green-500 hover:bg-green-600 text-green-900 h-72 w-72"
             />
           </Link>
@@ -62,7 +62,7 @@ const Home = () => {
             <NavigationBlock
               icon={Mail}
               title="Contact"
-              description="Stay updated with our latest developments"
+              description="Send a message to us"
               className="bg-green-700 hover:bg-green-800 text-white h-72 w-72"
             />
           </Link>
