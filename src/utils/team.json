@@ -5,18 +5,19 @@
                 "name": "Kelvin Fong",
                 "img": "kelvin.jpg",
                 "role": "Assistant Professor",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/kelvincfong/",
                 "website": "https://kelvinfong.ca",
                 "description": [
-                    "ScD, Environmental Health and Epidemiology, Harvard University, with Joel Schwartz",
-                    "PostDoc, Yale School of the Environment, with Michelle Bell"
+                    "Principal Investigator, Environmental and Occupational Health",
+                    "Funded by NIEHS P20ES036775 and RWJF HER24-82568",
+                    "ScD (Harvard), PostDoc (Yale)"
                 ]
             },
             {
                 "name": "Alex Del Favero-Campbell",
                 "role": "PhD Student",
                 "img": "alex.jpg",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/alexandra-del-favero-campbell/",
                 "website": "",
                 "description": [
                     "Focusing on environmental influences on mental health outcomes",
@@ -28,7 +29,7 @@
                 "name": "Tsz Kin Siu",
                 "role": "MSc Student",
                 "img": "tszkin.png",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/tszkin-siu/",
                 "website": "",
                 "description": [
                     "Focusing on satellite remote sensing of air pollution",
@@ -39,7 +40,7 @@
                 "name": "Ana Chittenden",
                 "role": "Research Assistant",
                 "img": "ana.jpg",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/ana-chittenden/",
                 "website": "",
                 "description": [
                     "Researching health impacts of environmental and climate change related factors",
@@ -51,7 +52,7 @@
                 "name": "Ellie Krutchen",
                 "role": "Research Assistant",
                 "img": "ellie.jpg",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/elizabeth-krutchen-56a405299/",
                 "website": "",
                 "description": [
                     "Developing data pipelines for understanding health impacts of green spaces and parks",
@@ -73,7 +74,7 @@
                 "name": "Niyati Shah",
                 "role": "Research Associate",
                 "img": "niyati.png",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/niyati-shah-43bbb5164/",
                 "website": "",
                 "description": [
                     "Focusing on the health experiences of climate-induced migration among women in informal settlements",
