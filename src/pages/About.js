@@ -77,6 +77,9 @@ const About = () => {
           and 2) epidemiology. Ultimately, we seek to inform decision-making to
           improve health and well-being, and to promote environmental justice.
         </p>
+        <p className="text-xl text-green-700 leading-8 max-w-3xl mx-auto text-justify font-comfortaa font-extrabold">
+          We receive funding from Research Nova Scotia (2022-2350), Robert Wood Johnson Foundation (HER24-82568), and National Institutes of Health: National Institute of Environmental Health Sciences (P20ES036775)
+        </p>
       </header>
 
       <main className="flex items-center justify-center pb-12">

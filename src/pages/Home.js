@@ -45,7 +45,7 @@ const Home = () => {
             <NavigationBlock
               icon={GraduationCap}
               title="Research"
-              description="Read about our research"
+              description="Read about our work"
               className="bg-green-400 hover:bg-green-500 text-green-900 h-72 w-72"
             />
           </Link>
@@ -54,7 +54,7 @@ const Home = () => {
             <NavigationBlock
               icon={BookOpen}
               title="News"
-              description="Updates from our research team"
+              description="Updates from our team"
               className="bg-green-500 hover:bg-green-600 text-green-900 h-72 w-72"
             />
           </Link>
