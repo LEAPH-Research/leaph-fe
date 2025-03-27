@@ -24,8 +24,8 @@ const Home = () => {
         <div className="flex items-center justify-center mb-6">
           <Leaf className="w-16 h-16 text-green-600" />
         </div>
-        <h1 className="text-5xl text-green-900 mb-4 font-josefin font-extrabold">LEAPH</h1>
-        <p className="text-xl text-green-700 max-w-2xl mx-auto font-comfortaa font-bold">
+        <h1 className="text-5xl text-green-900 mb-4 font-josefin font-extrabold cursor-default">LEAPH</h1>
+        <p className="text-xl text-green-700 max-w-2xl mx-auto font-comfortaa font-bold cursor-default">
           We are the Laboratory for Environmental Assessment and Population
           Health at the George Washington University
         </p>

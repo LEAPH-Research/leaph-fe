@@ -1,6 +1,7 @@
 import { Leaf } from "lucide-react";
 import React, { useState, useEffect } from "react";
 import paperData from "../utils/research.json";
+import { Link } from "react-router-dom";
 
 const PaperCard = ({ title, description, authors, citation, link }) => (
   <a href={link} target="_blank" rel="noopener noreferrer">
@@ -34,12 +35,14 @@ const Research = () => {
     <div className="min-h-screen bg-gradient-to-b from-green-100 to-green-200">
       <header className="container mx-auto px-4 py-8 text-center">
         <div className="flex items-center justify-center mb-6">
-          <Leaf className="w-16 h-16 text-green-600" />
+          <Link to="/">
+            <Leaf className="w-16 h-16 text-green-600" />
+          </Link>
         </div>
-        <h1 className="text-5xl font-bold text-green-900 mb-4 font-josefin">
+        <h1 className="cursor-default text-5xl font-bold text-green-900 mb-4 font-josefin">
           Research
         </h1>
-        <p className="text-2xl font-semibold mt-6 font-josefin">
+        <p className="cursor-default text-2xl font-semibold mt-6 font-josefin">
           Our Selected Publications
         </p>
         {/* <p className="text-xl text-green-700 font-semibold leading-8 max-w-3xl mx-auto text-justify font-mono">

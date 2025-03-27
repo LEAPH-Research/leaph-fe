@@ -3,6 +3,7 @@ import React, { useState, useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { Link } from "react-router-dom";
 
 const Contact = () => {
   const [subject, setSubject] = useState("");
@@ -36,20 +37,30 @@ const Contact = () => {
     <div className="min-h-screen bg-gradient-to-b from-green-100 to-green-200 flex flex-col items-center">
       <header className="container mx-auto px-4 py-8 text-center">
         <div className="flex items-center justify-center mb-6">
-          <Leaf className="w-16 h-16 text-green-600" />
+          <Link to="/">
+            <Leaf className="w-16 h-16 text-green-600" />
+          </Link>
         </div>
-        <h1 className="text-5xl font-bold text-green-900 mb-4 font-josefin">
+        <h1 className="cursor-default text-5xl font-bold text-green-900 mb-4 font-josefin">
           Contact Us
         </h1>
       </header>
       <main className="flex items-center justify-center w-full px-4 pb-12">
         <div className="w-full max-w-lg bg-white shadow-lg rounded-2xl p-6 flex flex-col justify-center">
-          <h2 className="text-3xl font-bold text-green-700 text-center mb-4 font-josefin">Send your Query</h2>
-          <form ref={form} onSubmit={sendEmail} className="flex flex-col space-y-4">
+          <h2 className="text-3xl font-bold text-green-700 text-center mb-4 font-josefin cursor-default">
+            Send your Query
+          </h2>
+          <form
+            ref={form}
+            onSubmit={sendEmail}
+            className="flex flex-col space-y-4"
+          >
             <div>
-              <label className="block text-gray-700 text-xl font-semibold mb-2 font-josefin">Your Name</label>
+              <label className="block text-gray-700 text-xl font-semibold mb-2 font-josefin cursor-default">
+                Your Name
+              </label>
               <input
-              required
+                required
                 type="text"
                 name="name"
                 placeholder="Enter your name"
@@ -57,9 +68,11 @@ const Contact = () => {
               />
             </div>
             <div>
-              <label className="block text-gray-700 text-xl font-semibold font-josefin mb-2">Email</label>
+              <label className="block text-gray-700 text-xl font-semibold font-josefin mb-2">
+                Email
+              </label>
               <input
-              required
+                required
                 type="email"
                 name="email"
                 placeholder="Enter your email"
@@ -67,7 +80,9 @@ const Contact = () => {
               />
             </div>
             <div>
-              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">Subject</label>
+              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">
+                Subject
+              </label>
               <div className="flex gap-4">
                 <label className="flex items-center space-x-2 cursor-pointer">
                   <input
@@ -89,7 +104,9 @@ const Contact = () => {
                     checked={subject === "team"}
                     onChange={() => setSubject("team")}
                   />
-                  <span className="font-comfortaa font-bold">Join our team</span>
+                  <span className="font-comfortaa font-bold">
+                    Join our team
+                  </span>
                 </label>
                 <label className="flex items-center space-x-2 cursor-pointer">
                   <input
@@ -105,9 +122,11 @@ const Contact = () => {
               </div>
             </div>
             <div>
-              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">Message</label>
+              <label className="block text-gray-700 text-xl font-josefin font-semibold mb-2">
+                Message
+              </label>
               <textarea
-              required
+                required
                 name="message"
                 placeholder="Enter your message"
                 className="w-full p-2 border rounded-lg focus:outline-none focus:ring focus:ring-green-400 font-comfortaa font-bold"
