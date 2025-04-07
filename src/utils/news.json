@@ -1,8 +1,18 @@
 {
     "news":[
         {
-            "date": "1 March 2025",
-            "description": "Test Launch of New Page!"
+            "date": "18 March 2025",
+            "description": "Kelvin gave an invited presentation at Society of Toxicology Annual Meeting.",
+            "image":"SoT2025.png"
+        },
+        {
+            "date": "28 January 2025",
+            "description": "Tsz Kin, Aline, and Kelvin attend NASA Health and Air Quality Applied Sciences Team (HAQAST) Meeting.",
+            "image":"HAQAST2025.png"
+        },
+        {
+            "date": "10 December 2024",
+            "description": "Kelvin presents at AGU2024 on NO2 exposures among immigrants in the US."
         },
         {
             "date": "30 Sept 2024",
