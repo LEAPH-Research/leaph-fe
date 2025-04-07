@@ -108,13 +108,16 @@ const About = () => {
         <p className="cursor-default text-xl text-green-700 leading-8 max-w-3xl mx-auto text-justify font-comfortaa font-extrabold">
           We aim to understand how health disparities arise from environmental
           conditions. To do this, we specialize in 1) environmental assessment
-          and 2) epidemiology. Ultimately, we seek to inform decision-making to
-          improve health and well-being, and to promote environmental justice.
+          and 2) epidemiology. We are particularly interested in leveraging satelite
+          remote sensing and advanced environmental epidemiologic methods. Recent projects
+          focus on predicting how air pollution health impacts change with traffic congestion
+          control. Ultimately, we seek to inform decision-making to
+          improve health and well-being for all.
         </p>
         <br></br>
         <p className="text-xl text-green-700 leading-8 max-w-3xl mx-auto text-justify font-comfortaa font-extrabold">
-          We receive funding from Research Nova Scotia (2022-2350), Robert Wood
-          Johnson Foundation (HER24-82568), and National Institutes of Health:
+          We are grateful for funding support from Research Nova Scotia (2022-2350), Robert Wood
+          Johnson Foundation (HER24-82568), and the National Institutes of Health:
           National Institute of Environmental Health Sciences (P20ES036775).
         </p>
       </header>
