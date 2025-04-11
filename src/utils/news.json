@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "10 April 2025",
+            "description": "Tsz Kin successfully defends his MSc thesis. Well done and congratulations!",
+            "image":"tks_defense.png"
+        },
+        {
             "date": "18 March 2025",
             "description": "Kelvin gave an invited presentation at Society of Toxicology Annual Meeting.",
             "image":"SoT2025.png"
