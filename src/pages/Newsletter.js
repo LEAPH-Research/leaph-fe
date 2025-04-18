@@ -7,7 +7,11 @@ const Newsletter = () => {
   const [news, setNews] = useState([]);
 
   useEffect(() => {
-    setNews(newsData?.news || []);
+    if (Array.isArray(newsData?.news)) {
+      setNews(newsData.news);
+    } else {
+      setNews([]);
+    }
   }, []);
 
   return (
@@ -26,13 +30,17 @@ const Newsletter = () => {
       <main className="flex w-4/5 md:w-2/5 mx-auto items-center justify-center pb-12">
         <div className="relative border-l-4 border-green-400 pl-4 w-full">
           {news.map((item, index) => (
-            <div key={index} className="mb-6 relative cursor-default">
+            <div key={index} className="mb-6 relative cursor-pointer">
               <div className="absolute -left-8 w-6 h-6 bg-green-700 rounded-full border-4 border-green-300"></div>
               <p className="text-green-600 font-bold text-2xl font-josefin">
                 {item.date}
               </p>
 
-              <div
+              {/* Wrap the news item with a Link or anchor tag for navigation */}
+              <Link
+                to={item.url} // Using React Router Link
+                target="_blank" // Open in new tab
+                rel="noopener noreferrer" // For security reasons when using target="_blank"
                 className={`bg-white p-3 rounded-lg shadow-md text-lg mt-2 font-comfortaa font-extrabold transition-all duration-300 ease-in-out group hover:shadow-lg ${
                   item.image ? "underline underline-offset-4" : ""
                 }`}
@@ -43,12 +51,13 @@ const Newsletter = () => {
                   <div className="w-full h-0 overflow-hidden transition-all duration-300 ease-in-out group-hover:h-96 mt-2">
                     <img
                       src={require(`../assets/news/${item.image}`)}
-                      alt="News"
+                      alt={item.description || "News image"}
                       className="w-full h-full rounded-xl shadow-md object-contain"
+                      loading="lazy"
                     />
                   </div>
                 )}
-              </div>
+              </Link>
             </div>
           ))}
         </div>

@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "16 April 2025",
+            "description": "Greta publishes her analysis on urban nature targets in C40 studies!",
+            "url": "https://doi.org/10.1016/S2542-5196(25)00053-1"
+        },
+        {
             "date": "10 April 2025",
             "description": "Tsz Kin successfully defends his MSc thesis. Well done!",
             "image":"tks_defense.png"
