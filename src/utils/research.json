@@ -1,6 +1,13 @@
 {
     "publications":[
         {
+            "title":"Identifying surface sulphur dioxide (SO2) monitoring gaps in Saint John, Canada with land use regression and hot spot mapping",
+            "description":"We identified SO2 monitoring gaps in Saint John NB.",
+            "authors":"Siu TK, Greene CS, Fong KC",
+            "citation":"Atmospheric Environment 2025, 353, 121238",
+            "link":"https://doi.org/10.1016/j.atmosenv.2025.121238"
+        },
+        {
             "title":"The Intersection of Immigrant and Environmental Health: A Scoping Review of Observational Population Exposure and Epidemiologic Studies",
             "description":"We reviewed the role of environmental exposures in immigrant health disparities.",
             "authors":"Fong KC, Heo S, Lim CC, Kim H, Chan AY, Lee W, Stewart R, Choi HM, Son JY, Bell ML",

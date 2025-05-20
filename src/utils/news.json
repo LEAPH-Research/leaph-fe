@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "20 May 2025",
+            "description": "New Publication in Atmospheric Environment: Tsz Kin's work on SO2 monitoring gaps in Saint John NB!",
+            "url": "https://doi.org/10.1016/j.atmosenv.2025.121238"
+        },
+        {
             "date": "16 April 2025",
             "description": "New Publication in Lancet Planetary Health: Greta's analysis on urban nature targets in C40 cities!",
             "url": "https://doi.org/10.1016/S2542-5196(25)00053-1"
