@@ -8,8 +8,8 @@
                 "linkedin": "https://www.linkedin.com/in/kelvincfong/",
                 "website": "https://kelvinfong.ca",
                 "description": [
-                    "Principal Investigator, Environmental and Occupational Health",
-                    "Funded by NIEHS P20ES036775 and RWJF HER24-82568",
+                    "Principal Investigator",
+                    "Department of Environmental and Occupational Health (George Washington University)",
                     "ScD (Harvard), PostDoc (Yale)"
                 ]
             },
@@ -88,19 +88,20 @@
                 "linkedin": "https://www.linkedin.com/in/greta-m-9775a058/",
                 "website": "",
                 "description": [
-                    "PhD, Environmental Health, George Washington Milken Institute of Public Health",
-                    "MSc, Global Health and Population, Harvard T.H. Chan School of Public Health"
+                    "PhD (George Washington University)",
+                    "MSc (Harvard)"
                 ]
             },
             {
                 "name": "Ahmed Shah",
                 "role": "Postdoctoral Associate",
                 "img": "ahmed.jpeg",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/ahmed-shah-419a1031b/",
                 "website": "",
                 "description": [
                     "Health Effects Institute (HEI) Summer Fellow 2025",
-                    "BSc student, University of Rochester"
+                    "Focusing on Air Pollution and Asthma Disparities",
+                    "BSc Student (Rochester)"
                 ]
             }
         ],
