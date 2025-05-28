@@ -1,6 +1,16 @@
 {
     "news":[
         {
+            "date": "28 May 2025",
+            "description": "Welcoming Summer HEI Fellow Ahmed Shah!",
+            "url": ""
+        },
+        {
+            "date": "23 May 2025",
+            "description": "Congrats to Greta Martin on winning the GWSPH Doctoral Dissertation Award!",
+            "url": ""
+        },
+        {
             "date": "20 May 2025",
             "description": "New Publication in Atmospheric Environment: Tsz Kin's work on SO2 monitoring gaps in Saint John NB!",
             "url": "https://doi.org/10.1016/j.atmosenv.2025.121238"
