@@ -49,28 +49,6 @@
                 ]
             },
             {
-                "name": "Ellie Krutchen",
-                "role": "Research Assistant",
-                "img": "ellie.jpg",
-                "linkedin": "https://www.linkedin.com/in/elizabeth-krutchen-56a405299/",
-                "website": "",
-                "description": [
-                    "Developing data pipelines for understanding health impacts of green spaces and parks",
-                    "BSc Student (George Washington University)"
-                ]
-            },
-            {
-                "name": "Vaibhav Vemula",
-                "role": "Research Assistant",
-                "img": "vaibhav.jpg",
-                "linkedin": "https://www.linkedin.com/in/vaibhavvemula/",
-                "website": "https://vaibhavvemula.com",
-                "description": [
-                    "Focusing on satellite imagery and GIS for analyzing green spaces and parks",
-                    "MSc Student (George Washington University)"
-                ]
-            },
-            {
                 "name": "Niyati Shah",
                 "role": "Research Associate",
                 "img": "niyati.png",
@@ -94,7 +72,7 @@
             },
             {
                 "name": "Ahmed Shah",
-                "role": "Research Assistant",
+                "role": "Summer Research Assistant",
                 "img": "ahmed.jpeg",
                 "linkedin": "https://www.linkedin.com/in/ahmed-shah-419a1031b/",
                 "website": "",
@@ -102,6 +80,29 @@
                     "Health Effects Institute (HEI) Summer Fellow 2025",
                     "Focusing on Air Pollution and Asthma Disparities",
                     "BSc Student (Rochester)"
+                ]
+            },
+            {
+                "name": "Medha Kurukunda",
+                "role": "Summer Research Assistant",
+                "img": "medha.jpeg",
+                "linkedin": "",
+                "website": "",
+                "description": [
+                    "Focusing on Sociodemographic Disparities in Asthma Exacerbation",
+                    "MD Student (George Washington University)"
+                ]
+            },
+            {
+                "name": "Aline Maybank",
+                "role": "Research Associate",
+                "img": "aline.jpeg",
+                "linkedin": "https://www.linkedin.com/in/aline-maybank/",
+                "website": "",
+                "description": [
+                    "Focusing on the Intersections between Environmental and Social Factors on Health",
+                    "Spatial Analyst on Food Access Project with Gabby Headrick",
+                    "MPH (Yale), BSc (Dalhousie)"
                 ]
             }
         ],
@@ -123,11 +124,19 @@
                 ]
             },
             {
-                "name": "Aline Maybank",
-                "img": "aline.png",
-                "role": "MPH student at Yale University",
+                "name": "Ellie Krutchen",
+                "img": "ellie.jpg",
+                "role": "BSc student at George Washington University",
                 "description": [
-                    "Experiential Learning Student Fall 2023"
+                    "Research Assistant 2024-2025"
+                ]
+            },
+            {
+                "name": "Vaibhav Vemula",
+                "img": "vaibhav.jpg",
+                "role": "MSc in Computer Science (George Washington University)",
+                "description": [
+                    "Research Assistant 2024-2025"
                 ]
             },
             {
