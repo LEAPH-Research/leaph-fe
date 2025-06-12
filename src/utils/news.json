@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "11 June 2025",
+            "description": "Welcoming Aline Maybank and Medha Kurukunda!",
+            "image":"06112025_outing.png"
+        },
+        {
             "date": "28 May 2025",
             "description": "Welcoming Summer HEI Fellow Ahmed Shah!",
             "url": ""
