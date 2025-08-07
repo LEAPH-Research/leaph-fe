@@ -1,6 +1,10 @@
 {
     "news":[
         {
+            "date": "6 August 2025",
+            "description": "Farewell and good luck to Ahmed and Medha as they wrap up their summer with LEAPH!",
+            "image":"LEAPH_EndofSummer.png"
+        },
             "date": "2 July 2025",
             "description": "LEAPH outing to the American Geophysical Union headquarters!",
             "image":"AGU_LEAPH_website.png"
