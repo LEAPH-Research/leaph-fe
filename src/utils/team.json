@@ -81,32 +81,25 @@
                     "PhD (George Washington University)",
                     "MSc (Harvard)"
                 ]
-            },
+            }
+        ],
+        "alumni": [
             {
                 "name": "Ahmed Shah",
-                "role": "Summer Research Assistant",
                 "img": "ahmed.jpeg",
-                "linkedin": "https://www.linkedin.com/in/ahmed-shah-419a1031b/",
-                "website": "",
+                "role": "BSc student at the University of Rochester",
                 "description": [
-                    "Health Effects Institute (HEI) Summer Fellow 2025",
-                    "Focusing on Air Pollution and Asthma Disparities",
-                    "BSc Student (Rochester)"
+                    "HEI Summer Student Researcher 2025"
                 ]
             },
             {
                 "name": "Medha Kurukunda",
-                "role": "Summer Research Assistant",
                 "img": "medha.jpeg",
-                "linkedin": "",
-                "website": "",
+                "role": "Medical Student at GWU",
                 "description": [
-                    "Focusing on Sociodemographic Disparities in Asthma Exacerbation",
-                    "MD Student (George Washington University)"
+                    "Summer Research Assistant 2025"
                 ]
-            }
-        ],
-        "alumni": [
+            },
             {
                 "name": "Corey Bassett",
                 "img": "corey.jpg",
