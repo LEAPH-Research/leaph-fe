@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "7 August 2025",
+            "description": "Ahmed presents his final summer research project for HEI peers!",
+            "image":"Ahmed_HEI.png"
+        },
+        {
             "date": "6 August 2025",
             "description": "Farewell and good luck to Ahmed and Medha as they wrap up their summer with LEAPH!",
             "image":"LEAPH_EndofSummer.png"
