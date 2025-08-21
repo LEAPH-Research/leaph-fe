@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "18 August 2025",
+            "description": "LEAPH attends ISES ISEE 2025 in Atlanta!",
+            "image":"LEAPH_ISEE.png"
+        },
+        {
             "date": "7 August 2025",
             "description": "Ahmed presents his final summer research project for HEI peers!",
             "image":"Ahmed_HEI.png"
