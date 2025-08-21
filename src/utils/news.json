@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "19 August 2025",
+            "description": "LEAPH members, Alex and Tsz-Kin, receive ISES ISEE 2025 travel awards!",
+            "image":"TravelAward_ISEE.png"
+        },
+        {
             "date": "18 August 2025",
             "description": "LEAPH attends ISES ISEE 2025 in Atlanta!",
             "image":"LEAPH_ISEE.png"
