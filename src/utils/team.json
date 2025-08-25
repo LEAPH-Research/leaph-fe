@@ -39,36 +39,13 @@
             },
             {
                 "name": "Tsz Kin Siu",
-                "role": "MSc Student",
+                "role": "Research Associate",
                 "img": "tszkin.png",
                 "linkedin": "https://www.linkedin.com/in/tszkin-siu/",
                 "website": "",
                 "description": [
                     "Focusing on satellite remote sensing of air pollution",
                     "MDaSc, BSc (HKU)"
-                ]
-            },
-            {
-                "name": "Ana Chittenden",
-                "role": "Research Assistant",
-                "img": "ana.jpg",
-                "linkedin": "https://www.linkedin.com/in/ana-chittenden/",
-                "website": "",
-                "description": [
-                    "Researching health impacts of environmental and climate change related factors",
-                    "MPH (George Washington University)",
-                    "BSc (Georgia)"
-                ]
-            },
-            {
-                "name": "Niyati Shah",
-                "role": "Research Associate",
-                "img": "niyati.png",
-                "linkedin": "https://www.linkedin.com/in/niyati-shah-43bbb5164/",
-                "website": "",
-                "description": [
-                    "Focusing on the health experiences of climate-induced migration among women in informal settlements",
-                    "BSc (George Washington University)"
                 ]
             },
              {
@@ -106,9 +83,25 @@
             {
                 "name": "Medha Kurukunda",
                 "img": "medha.jpeg",
-                "role": "Medical Student at GWU",
+                "role": "Medical Student at George Washington University",
                 "description": [
                     "Summer Research Assistant 2025"
+                ]
+            },
+                        {
+                "name": "Ana Chittenden",
+                "img": "ana.jpg",
+                "role": "MPH Graduate of George Washington University",
+                "description": [
+                    "Research Assistant 2024-2025"
+                ]
+            },
+            {
+                "name": "Niyati Shah",
+                "img": "niyati.png",
+                "role": "Research Associate 2025",
+                "description": [
+                    "Fulbright Student Scholar"
                 ]
             },
             {
