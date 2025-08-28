@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "27 August 2025",
+            "description": "Kelvin spoke at NYCFPA's panel on climate justice and resilience in Washington DC.",
+            "image":"25aug_panel_720.png"
+        },
+        {
             "date": "19 August 2025",
             "description": "LEAPH members, Alex and Tsz Kin, receive ISES 2025 travel awards!",
             "image":"TravelAward_ISEE.png"
