@@ -1,5 +1,10 @@
 {
     "news":[
+                {
+            "date": "25 September 2025",
+            "description": "Congrats to Greta for winning 1st place at the GWU Post-doc Appreciation Day Science Communication Contest!",
+            "image":"Greta_Sep252025.png"
+        },
         {
             "date": "27 August 2025",
             "description": "Kelvin spoke at NYCFPA's panel on climate justice and resilience in Washington DC.",
