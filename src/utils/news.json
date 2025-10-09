@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "8 October 2025",
+            "description": "New Publication in IOP Science: Greta's work about NDVI on all-cause mortality across 1041 global cities!",
+            "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae0954"
+        },
+        {
             "date": "25 September 2025",
             "description": "Congrats to Greta for winning 1st place at the GWU Post-doc Appreciation Day Science Communication Contest!",
             "image":"Greta_Sep252025.png"
