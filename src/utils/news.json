@@ -2,6 +2,11 @@
     "news":[
         {
             "date": "8 October 2025",
+            "description": "Congrats to Aline for being selected for the American Geophysical Union's (AGU) 2025-2026 Voices for Science cohort!",
+            "image":"Aline_VOSAGU.png"
+        },
+        {
+            "date": "8 October 2025",
             "description": "New Publication in Environmental Research Letters: Greta's work about green spaces and all-cause mortality in 1041 cities!",
             "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae0954"
         },
