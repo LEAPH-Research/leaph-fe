@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "3 November 2025",
+            "description": "Aline presented on gas stove use and adult asthma at the American Public Health Assocation (APHA) 2025 conference!",
+            "image":"APHA_2025.png"
+        },
+        {
             "date": "17 October 2025",
             "description": "Congrats to Aline for being selected for the American Geophysical Union's (AGU) 2025-2026 Voices for Science cohort!",
             "image":"Aline_VOSAGU.png"
