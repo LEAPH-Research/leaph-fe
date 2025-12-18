@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "14 December 2025",
+            "description": "LEAPH members attended the OneEarth OneHealth NSF Research Coordination Network meeting!",
+            "image":"OneEarth.png"
+        },
+        {
             "date": "3 November 2025",
             "description": "Aline presented on gas stove use and adult asthma at the American Public Health Assocation (APHA) 2025 conference!",
             "image":"APHA_2025.png"
