@@ -1,6 +1,13 @@
 {
     "publications":[
         {
+            "title":"Tropospheric NO2 Patterns in Eastern Canada Using the First Year of TEMPO Observations",
+            "description":"We investigated NO2 concentrations in Eastern Canada.",
+            "authors":"Siu TK, Goldberg, Kerr GH, Chen L, Nawaz MO, Chang RYW, Fong KC",
+            "citation":"JGR Atmospheres 2025, 130(24), e2025JD044757",
+            "link":"https://doi.org/10.1029/2025JD044757"
+        },
+        {
             "title":"Identifying surface sulphur dioxide (SO2) monitoring gaps in Saint John, Canada with land use regression and hot spot mapping",
             "description":"We identified SO2 monitoring gaps in Saint John NB.",
             "authors":"Siu TK, Greene CS, Fong KC",
