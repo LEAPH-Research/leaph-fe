@@ -1,6 +1,16 @@
 {
     "news":[
         {
+            "date": "14 January 2026",
+            "description": "Aline was awarded a Museum of Science, Digital Science Communication Fellowship!",
+            "image": "Maybank_MOS1.png"
+        },
+        {
+            "date": "18 December 2025",
+            "description": "New Publication in JGR Atmospheres: Tsz Kin's work about NO2 Patterns in Eastern Canada using TEMPO observations!",
+            "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044757"
+        },
+        {
             "date": "15 December 2025",
             "description": "LEAPH members presented at the American Geophysical Union Conference in New Orleans!",
             "image":"AGU_LEAPH2025.png"
