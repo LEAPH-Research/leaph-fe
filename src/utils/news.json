@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "21 January 2026",
+            "description": "LEAPH members present research updates at the annual GWU EOH Department "Research Rodeo" ",
+            "image": "Research_Rodeo_2026.png"
+        },
+        {
             "date": "14 January 2026",
             "description": "Aline was awarded a Museum of Science, Digital Science Communication Fellowship!",
             "image": "Maybank_MOS1.png"
