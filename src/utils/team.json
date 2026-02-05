@@ -37,17 +37,6 @@
                     "Recipient of the Scotia Scholar Doctoral Award and the Vitamin Scholarship."
                 ]
             },
-            {
-                "name": "Tsz Kin Siu",
-                "role": "Research Associate",
-                "img": "tszkin.png",
-                "linkedin": "https://www.linkedin.com/in/tszkin-siu/",
-                "website": "",
-                "description": [
-                    "Focusing on satellite remote sensing of air pollution",
-                    "MDaSc, BSc (HKU)"
-                ]
-            },
              {
                 "name": "Greta Martin",
                 "role": "Postdoctoral Associate",
@@ -72,6 +61,13 @@
             }
         ],
         "alumni": [
+            {
+                "name": "Tsz Kin Siu",
+                "img": "tszkin.png",
+                "description": [
+                    "MSc Student & Research Associate"
+                ]
+            },
             {
                 "name": "Ahmed Shah",
                 "img": "ahmed.jpeg",
