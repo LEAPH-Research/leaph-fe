@@ -62,11 +62,21 @@
             {
                 "name": "Josie Kreitzer",
                 "role": "MPH Student",
-                "img": "test.png",
+                "img": "josie.png",
                 "linkedin": "https://www.linkedin.com/in/josie-kreitzer/",
                 "website": "",
                 "description": [
                     "BSc (George Washington University)"
+                ]
+            },
+            {
+                "name": "Lauren Arnold",
+                "role": "MPH Student",
+                "img": "lauren.png",
+                "linkedin": "https://www.linkedin.com/in/lauren-arnold-b5ab00245/",
+                "website": "",
+                "description": [
+                    "BSc (Villanova University)"
                 ]
             }
         ],
