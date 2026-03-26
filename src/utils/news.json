@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "25 March 2026",
+            "description": "Alex presented at Society of Toxicology Annual Meeting on exposure to metals and poor mental health. Good job Alex!",
+            "image": "Alex_SOT2026.jpeg"
+        },
+        {
             "date": "24 February 2026",
             "description": "Aline hosted an AGU workshop on harnessing social media for science communication!",
             "image": "Aline_AGUSciComm.png"
