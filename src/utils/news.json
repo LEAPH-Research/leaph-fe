@@ -1,6 +1,11 @@
 {
     "news":[
         {
+            "date": "16 April 2026",
+            "description": "Alex published a blog examining vulnerable population studies in California on the Science and Technology website ",
+            "image": "Alex_SOT_article.png"
+        },
+        {
             "date": "15 April 2026",
             "description": "Yuki, Aline, and Josie presented at GW Research Day 2026. Congratulations to Josie for winning the 1st place award for the Health, Education, and Community Outcomes Prize! ",
             "image": "GW_Research_Day_2.png"
