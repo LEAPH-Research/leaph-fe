@@ -14,18 +14,6 @@
                 ]
             },
             {
-                "name": "Aline Maybank",
-                "role": "Research Associate",
-                "img": "Maybank.png",
-                "linkedin": "https://www.linkedin.com/in/aline-maybank/",
-                "website": "",
-                "description": [
-                    "Focusing on the Intersections between Environmental and Social Factors on Health",
-                    "Spatial Analyst on Food Access Project with Gabby Headrick",
-                    "MPH (Yale), BSc (Dalhousie)"
-                ]
-            },
-            {
                 "name": "Alex Del Favero-Campbell",
                 "role": "PhD Student",
                 "img": "alex.jpg",
@@ -81,6 +69,14 @@
             }
         ],
         "alumni": [
+            {
+                "name": "Aline Maybank",
+                "img": "Maybank.png",
+                "role": "MD/PhD at the University of British Columbia",
+                "description": [
+                    "Research Associate 2025-26 & BSc (Dalhousie)"
+                ]
+            },
             {
                 "name": "Tsz Kin Siu",
                 "img": "tszkin.png",
