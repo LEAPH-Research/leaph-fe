@@ -2,8 +2,19 @@
     "news":[
          {
             "date": "2 September 2026",
-            "description": "Greta gave a talk about Environmental Conditions of Urban Parks across Socioeconomic Gradients at the 2026 ISEE Conference! ",
+            "description": "Greta gave a talk about environmental conditions of urban parks across socioeconomic gradients at the 2026 ISEE Conference! ",
             "image": "Greta_ISEE2026.jpg"
+        }, 
+         {
+            "date": "26 August 2026",
+            "description": "Tsz Kin published an article about the disparities of fine particulate matter monitoring in eastern Canada. Great job Tsz Kin! ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42553774/",
+            "image": "TszKin_PM_article.jpg"
+        }, 
+        {
+            "date": "5 June 2026",
+            "description": "Lauren attended the National Conference of Pediatric Oncology and Hematology in Bucharest, Romania",
+            "image": "Lauren_SIOPE.PNG"
         }, 
         {
             "date": "28 April 2026",
@@ -35,6 +46,10 @@
             "date": "25 March 2026",
             "description": "Alex presented at Society of Toxicology Annual Meeting on exposure to metals and poor mental health. Good job Alex!",
             "image": "Alex_SOT2026.jpeg"
+        },
+        {
+            "date": "5 March 2026",
+            "description": "Lauren was selected for the Cancer Epidemiology Education in Special Populations (CEESP) Fellowship!",
         },
         {
             "date": "24 February 2026",
