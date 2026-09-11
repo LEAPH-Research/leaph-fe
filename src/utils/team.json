@@ -77,7 +77,7 @@
                 "linkedin": "https://www.linkedin.com/in/josie-kreitzer/",
                 "website": "",
                 "description": [
-                    "MPH (George Washington University)"
+                    "MPH (George Washington University)",
                     "BSc (George Washington University)"
                 ]
             },
@@ -99,6 +99,14 @@
                 "role": "MD/PhD at the University of British Columbia",
                 "description": [
                     "Research Associate 2025-26 & BSc (Dalhousie)"
+                ]
+            },
+            {
+                "name": "Ahmed Shah",
+                "img": "ahmed.jpeg",
+                "role": "MPH student at Columbia University",
+                "description": [
+                    "HEI Summer Student Researcher 2025"
                 ]
             },
             {
