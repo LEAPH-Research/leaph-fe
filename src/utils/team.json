@@ -48,12 +48,36 @@
                 ]
             },
             {
+                "name": "Emmy Shingara",
+                "role": "PhD Student",
+                "img": "Emmy_headshot.jpeg",
+                "linkedin": "http://www.linkedin.com/in/emmyshingara",
+                "website": "",
+                "description": [
+                    "MPH (Drexel University)",
+                    "BSc (Moravian University)"
+                ]
+            },
+            {
+                "name": "Tsz Kin Siu",
+                "role" : "Research Associate",
+                "img": "tszkin.png",
+                "linkedin": "https://www.linkedin.com/in/tszkin-siu/",
+                "website": "",
+                "description": [
+                    "MSc (Dalhousie University)",
+                    "MDaSc (The University of Hong Kong)",
+                    "BSc (The University of Hong Kong)"
+                ]
+            },
+            {
                 "name": "Josie Kreitzer",
-                "role": "MPH Student",
+                "role": "Research Associate",
                 "img": "josie.png",
                 "linkedin": "https://www.linkedin.com/in/josie-kreitzer/",
                 "website": "",
                 "description": [
+                    "MPH (George Washington University)"
                     "BSc (George Washington University)"
                 ]
             },
@@ -75,21 +99,6 @@
                 "role": "MD/PhD at the University of British Columbia",
                 "description": [
                     "Research Associate 2025-26 & BSc (Dalhousie)"
-                ]
-            },
-            {
-                "name": "Tsz Kin Siu",
-                "img": "tszkin.png",
-                "description": [
-                    "MSc Student & Research Associate"
-                ]
-            },
-            {
-                "name": "Ahmed Shah",
-                "img": "ahmed.jpeg",
-                "role": "MPH student at Columbia University",
-                "description": [
-                    "HEI Summer Student Researcher 2025"
                 ]
             },
             {
